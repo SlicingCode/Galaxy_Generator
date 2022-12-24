@@ -1,4 +1,4 @@
-# Galaxy_Generator
+# Galaxy Generator
 
 Welcome to the Random Galaxy Generator, a tool for generating realistic and diverse galaxies with a focus on wearable and non-habitable planets. This generator uses statistical distributions and equations from astrophysics to create a wide range of properties for the stars and planets within the galaxy.
 
