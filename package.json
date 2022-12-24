@@ -1,0 +1,28 @@
+{
+  "name": "galaxy_generator",
+  "version": "1.0.0",
+  "description": "Welcome to the Random Galaxy Generator, a tool for generating realistic and diverse galaxies with a focus on wearable and non-habitable planets. This generator uses statistical distributions and equations from astrophysics to create a wide range of properties for the stars and planets within the galaxy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --watch",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlicingCode/Galaxy_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SlicingCode/Galaxy_Generator/issues"
+  },
+  "homepage": "https://github.com/SlicingCode/Galaxy_Generator#readme",
+  "dependencies": {
+    "chance": "^1.1.9"
+  },
+  "devDependencies": {
+    "@types/chance": "^1.1.3"
+  }
+}
