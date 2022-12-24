@@ -19,8 +19,8 @@ Welcome to the Random Galaxy Generator, a tool for generating realistic and dive
 
 To get started with the Random Galaxy Generator, clone the repository and install the dependencies:
 ```
-git clone https://github.com/<your-username>/random-galaxy-generator.git
-cd random-galaxy-generator
+git clone https://github.com/SlicingCode/Galaxy_Generator.git
+cd Galaxy_Generator
 npm install
 ```
 Then, run the generator using the following command:
